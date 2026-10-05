@@ -230,7 +230,3 @@ pm enable com.xiaomi.joyose
 - **App Ops:** Тонкое управление скрытыми разрешениями (доступ к буферу обмена, фоновому запуску, датчикам движения).
 - **Hail:** Заморозка редко используемых приложений в один клик без их удаления.
 - **Swift Backup:** Полный бэкап приложений и их настроек без необходимости разблокировки загрузчика.
-
----
-
-#android #hyperos #xiaomi #circle_to_search #cts #adb #shizuku #ashell #termux #google_assistant #guide #tweak
