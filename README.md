@@ -1,8 +1,12 @@
 # Circle to Search on Android & HyperOS via ADB
 
+[![Circle to Search Hero Banner](./assets/banner.jpg)](https://search.google/ways-to-search/circle-to-search/)
+
+> 🌐 **Официальный ресурс Google:** [search.google/ways-to-search/circle-to-search](https://search.google/ways-to-search/circle-to-search/)
+
 Корпорация Google начала удалять старого классического Google Assistant из нативного приложения Google и вместо него принудительно даёт урезанного ассистента Gemini, из-за чего пользователи потеряли привычные быстрые фичи контекстного поиска по экрану. 
 
-Официально инновационная функция **Circle to Search** доступна исключительно на флагманах **Google Pixel** и **Samsung Galaxy**. Однако с помощью этой инструкции и утилиты CTSLauncher мы активируем Circle to Search абсолютно нативно на любом смартфоне (Xiaomi, POCO, Redmi, Motorola и др.) без смены прошивки и без Root-прав.
+Официально инновационная функция [**Circle to Search**](https://search.google/ways-to-search/circle-to-search/) доступна исключительно на флагманах **Google Pixel** и **Samsung Galaxy**. Однако с помощью этой инструкции и утилиты CTSLauncher мы активируем Circle to Search абсолютно нативно на любом смартфоне (Xiaomi, POCO, Redmi, Motorola и др.) без смены прошивки и без Root-прав.
 
 С помощью ADB мы возвращаем полноценный нативный **Circle to Search** (мгновенный перевод всего экрана, распознавание любого текста и выделение объектов произвольной формы) через удержание кнопки питания (0.5 сек), двойное постукивание по задней панели (Back Tap) или плитку в шторке быстрых настроек.
 
