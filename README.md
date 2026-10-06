@@ -248,3 +248,9 @@ pm enable com.xiaomi.joyose
 - **App Ops:** Тонкое управление скрытыми разрешениями (доступ к буферу обмена, фоновому запуску, датчикам движения).
 - **Hail:** Заморозка редко используемых приложений в один клик без их удаления.
 - **Swift Backup:** Полный бэкап приложений и их настроек без необходимости разблокировки загрузчика.
+
+---
+
+## English summary
+
+A step-by-step guide to enabling Google's native Circle to Search on Android phones that don't officially support it (Xiaomi, POCO, Redmi with HyperOS/MIUI, Motorola and others) without root, using the open-source CTSLauncher app and ADB. You can run the commands on the phone itself via Wireless Debugging + Shizuku + aShell (or Termux), or from a PC over USB; the guide also fixes the HyperOS "Error: Stream closed" issue and sets up power-button long press, Back Tap and Quick Settings tile triggers. Bonus sections cover Xiaomi debloat over ADB, locking 120 Hz and disabling Joyose. The repo ships an AI agent skill (SKILL.md): give it to your AI agent or copy the repo into its skills directory for guided setup.
